@@ -10,6 +10,7 @@
     <name>
     Karthick Sri Guru
 	Please review this course
+	Finally i have been completed the Git course
 
 # TECHNOLOGY COLOPHON
 
