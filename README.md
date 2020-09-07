@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Hey Guys. This karthick. I make scripts to run on Servers
 
 ## Purpose
 
